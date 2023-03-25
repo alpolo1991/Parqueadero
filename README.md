@@ -5,7 +5,7 @@ Funcinamiento basico de registro de usuarios, carros etc.
 
 ## Para abrir y ejecutar una aplicación de consola en Visual Studio Code, puedes seguir estos pasos.
 
-1 - Abre Visual Studio Code y selecciona Archivo > Abrir carpeta en el menú principal. Busca la carpeta donde se encuentra tu aplicación de consola y selecciónala.
+- 1 - Abre Visual Studio Code y selecciona Archivo > Abrir carpeta en el menú principal. Busca la carpeta donde se encuentra tu aplicación de consola y selecciónala.
 
 - 2 - Abre el archivo Program.cs o el que contenga el método Main de tu aplicación. Si no tienes la extensión de C# instalada, Visual Studio Code te sugerirá que la instales. Haz clic en Instalar para agregar la extensión de C# a Visual Studio Code.
 
